@@ -1,8 +1,8 @@
 // Big Button
 .big-button {
-  background: $purple;
+  background: darken($blue, 25%);
   border: none;
-  border-bottom: .6rem solid darken($purple, 10%);
+  border-bottom: .6rem solid darken($blue, 40%);
   color: white;
   font-weight: bold;
   font-size: $l-size;
@@ -23,9 +23,9 @@
 
 // Button
 .button {
-  background: $purple;
+  background: darken($blue, 25%);
   border: none;
-  border-bottom: .3rem solid darken($purple, 10%);
+  border-bottom: .3rem solid darken($blue, 40%);
   color: white;
   font-weight: 500;
   padding: $s-size;

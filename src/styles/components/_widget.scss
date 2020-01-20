@@ -14,7 +14,7 @@
 
 // Widget Header
 .widget-header {
-  background: $blue;
+  background: darken($blue, 25%);
   color: $off-white;
   display: flex;
   justify-content: space-between;
